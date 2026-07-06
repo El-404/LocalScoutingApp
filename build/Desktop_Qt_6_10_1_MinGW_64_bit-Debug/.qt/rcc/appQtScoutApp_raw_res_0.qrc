@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QtScoutApp/">
+    <file alias="Images.qrc">C:/Users/404el/Documents/QtScoutApp/Images.qrc</file>
+  </qresource>
+</RCC>
+

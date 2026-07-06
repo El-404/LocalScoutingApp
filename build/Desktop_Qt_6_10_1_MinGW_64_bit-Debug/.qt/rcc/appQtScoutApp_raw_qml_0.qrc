@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/QtScoutApp/">
+    <file alias="Main.qml">C:/Users/404el/Documents/QtScoutApp/Main.qml</file>
+    <file alias="MainPage.qml">C:/Users/404el/Documents/QtScoutApp/MainPage.qml</file>
+    <file alias="QrCodePage.qml">C:/Users/404el/Documents/QtScoutApp/QrCodePage.qml</file>
+    <file alias="main.js">C:/Users/404el/Documents/QtScoutApp/main.js</file>
+    <file alias="Objective.qml">C:/Users/404el/Documents/QtScoutApp/Objective.qml</file>
+  </qresource>
+</RCC>
+

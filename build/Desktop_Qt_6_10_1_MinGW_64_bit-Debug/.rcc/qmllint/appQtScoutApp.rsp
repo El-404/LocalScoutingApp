@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Users/404el/Documents/QtScoutApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+C:/Users/404el/Documents/QtScoutApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_QtScoutApp.qrc
+--resource
+C:/Users/404el/Documents/QtScoutApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appQtScoutApp_raw_qml_0.qrc
+C:/Users/404el/Documents/QtScoutApp/Main.qml
+C:/Users/404el/Documents/QtScoutApp/MainPage.qml
+C:/Users/404el/Documents/QtScoutApp/QrCodePage.qml
+C:/Users/404el/Documents/QtScoutApp/main.js
+C:/Users/404el/Documents/QtScoutApp/Objective.qml

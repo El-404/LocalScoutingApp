@@ -1,0 +1,9 @@
+module QtScoutApp
+typeinfo appQtScoutApp.qmltypes
+prefer :/qt/qml/QtScoutApp/
+Main 254.0 Main.qml
+MainPage 254.0 MainPage.qml
+QrCodePage 254.0 QrCodePage.qml
+Objective 254.0 Objective.qml
+depends QtQuick
+
