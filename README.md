@@ -9,3 +9,5 @@ MainPage.qml is essential the same as index.html, but it gets pasted into the mi
 Objective.Qml is basically a struct/class that holds objective data
 
 QrCodePage.qml was supposed to be the qr code generator for uploading the data
+
+gameInfo.json is an example of the data for each event/game. Aka what teams are there, what game it is, all the objectives in said game, etc
