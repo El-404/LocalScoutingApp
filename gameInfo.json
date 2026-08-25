@@ -1,0 +1,31 @@
+[
+    {
+        "gameName": "2026 Rebuilt",
+        "eventName": "Lake Superior Regional",
+        "team": 9149, //Current scout's team
+        "scoutId": 0,
+        "Teams": [ //list of all the teams at the event
+            {
+                "teamNumber": 9149,
+                "teamId": 1,
+                "teamName": "Robocats"
+            }
+        ],
+        "Matches": [
+            {
+                "matchId": 1,
+                "number": 9,
+                "type": "PR"
+            }
+        ],
+        "objectives": [
+            {
+                "name": "Fuel",
+                "Label": "Fuel",
+                "Scoring Type": "Drop Down",
+                "lowRangeValue": 0,
+                "highRangeValue": 100
+            }
+        ]
+    }
+]
