@@ -1,6 +1,6 @@
 var gameData;
 
-function newGame(file, header){//, teleOp, endGame) {
+function newGame(file, header){
     var xhr = new XMLHttpRequest;
     xhr.open("GET", file);
     xhr.onreadystatechange = function() {
